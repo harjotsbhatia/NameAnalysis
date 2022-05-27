@@ -1,0 +1,15 @@
+{
+  "name": "rest-api-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harjot",
+  "license": "ISC",
+  "dependencies": {
+    "jsonschema": "^1.4.1",
+    "winston": "^3.7.2"
+  }
+}
