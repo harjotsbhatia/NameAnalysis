@@ -11,5 +11,6 @@ Structure
 Postman
 <img width="852" alt="image" src="https://user-images.githubusercontent.com/89289963/170777799-abd34a86-eb1f-4ccf-883f-f0ad9826b119.png">
 
+![image](https://user-images.githubusercontent.com/89289963/170781741-755f3994-e9c3-4966-a82d-1c51d793694c.png)
 
 
