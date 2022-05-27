@@ -1,4 +1,4 @@
-# VolleyAPI
+# VolleyAPI It takes name and Birth Month to analise first name
 
 https://7dnizng4pl.execute-api.us-west-1.amazonaws.com/v1/getdata
 
@@ -12,4 +12,4 @@ Postman
 <img width="852" alt="image" src="https://user-images.githubusercontent.com/89289963/170777799-abd34a86-eb1f-4ccf-883f-f0ad9826b119.png">
 
 
-It takes name and Date of Birth to analise first name
+
