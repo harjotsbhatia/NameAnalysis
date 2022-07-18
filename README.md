@@ -1,4 +1,4 @@
-# VolleyAPI It takes name and Birth Month to analise first name
+# API that takes name and Birth Month to analise first name
 
 https://7dnizng4pl.execute-api.us-west-1.amazonaws.com/v1/getdata
 
